@@ -1,20 +1,40 @@
-{ "timestamp": "2015-03-14", "domain": "sintaxi.com", "path": "/", "status": 200, "device": "phone", "method": "get", "referrer": null }
-{ "timestamp": "2015-03-14", "domain": "sintaxi.com", "path": "/", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "timestamp": "2015-03-15", "domain": "sintaxi.com", "path": "/", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "timestamp": "2015-03-15", "domain": "sintaxi.com", "path": "/", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 200, "device": "phone", "method": "get", "referrer": null }
-{ "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": null, "method": "get", "referrer": null }
-{ "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": null, "method": "get", "referrer": null }
-{ "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": null, "method": "get", "referrer": null }
-{ "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/contact", "status": 200, "device": "desktop", "method": "get", "referrer": null }
-{ "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/contact", "status": 304, "device": "desktop", "method": "get", "referrer": null }
-{ "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/contact", "status": 304, "device": "desktop", "method": "get", "referrer": null }
-{ "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/contact", "status": 304, "device": "desktop", "method": "get", "referrer": null }
-{ "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/blog/hi", "status": 200, "device": "desktop", "method": "get", "referrer": "twitter.com/status/12345" }
-{ "timestamp": "2015-03-18", "domain": "sintaxi.com", "path": "/blog/hi", "status": 304, "device": "desktop", "method": "get", "referrer": "twitter.com/status/12345" }
-{ "timestamp": "2015-03-18", "domain": "sintaxi.com", "path": "/blog/hi", "status": 304, "device": "desktop", "method": "get", "referrer": "twitter.com/status/12345" }
-{ "timestamp": "2015-03-18", "domain": "sintaxi.com", "path": "/blog/hi", "status": 304, "device": "desktop", "method": "get", "referrer": "twitter.com/status/12345" }
-{ "timestamp": "2015-03-18", "domain": "sintaxi.com", "path": "/not-exist", "status": 404, "device": "tablet", "method": "get", "referrer": "twitter.com/status/6789" }
-{ "timestamp": "2015-03-18", "domain": "sintaxi.com", "path": "/not-exist", "status": 404, "device": "tablet", "method": "get", "referrer": "twitter.com/status/6789" }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 404, "ams-02": 500 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 404, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 404, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 404, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-01": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 404, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 200, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 404, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 200, "svg-03": 200, "fra-07": 404, "ams-02": 200 }
+{ "sfo-01": 200, "yyz-02": 200, "jfk-01": 404, "svg-03": 200, "fra-07": 404, "ams-02": 200 }
+{ "sfo-01": 500, "yyz-02": 200, "jfk-01": 500, "svg-03": 200, "fra-07": 200, "ams-02": 500 }
